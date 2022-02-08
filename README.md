@@ -1,4 +1,5 @@
-# Maps — Java (IntelliJ IDEA)
+# Maps
+Java (IntelliJ IDEA)
 
 Dec 2021
 - Determine where the player is, determine exits and allow the player to move in another direction
